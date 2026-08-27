@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1949 >>
+stream
+BT /F1 16 Tf 50 750 Td (CLINICAL PROGRESS NOTE -- OUTPATIENT NEUROLOGY) Tj ET
+BT /F2 10 Tf 50 732 Td (Comprehensive Patient Encounter & History of Present Illness) Tj ET
+BT /F1 9 Tf 50 705 Td (Patient:) Tj ET
+BT /F2 9 Tf 180 705 Td (Ahmed Ali) Tj ET
+BT /F1 9 Tf 50 689 Td (Encounter Date:) Tj ET
+BT /F2 9 Tf 180 689 Td (2026-08-15) Tj ET
+BT /F1 9 Tf 50 673 Td (Attending Physician:) Tj ET
+BT /F2 9 Tf 180 673 Td (Dr. Hala Mansour, MD) Tj ET
+BT /F1 9 Tf 50 657 Td (Vital Signs:) Tj ET
+BT /F2 9 Tf 180 657 Td (BP: 124/82 mmHg | HR: 72 bpm | Temp: 36.8 C | SpO2: 99%) Tj ET
+BT /F2 9 Tf 50 631 Td (Subjective / History of Present Illness:) Tj ET
+BT /F2 9 Tf 50 617 Td (45-year-old male with no prior history of chronic migraines presents with new-onset persistent) Tj ET
+BT /F2 9 Tf 50 603 Td (daily headaches for the past 6 continuous weeks. Symptoms unprovoked, worse in afternoons.) Tj ET
+BT /F2 9 Tf 50 589 Td (Patient tried over-the-counter Ibuprofen 600mg TID and Acetaminophen for 4 weeks with zero relief.) Tj ET
+BT /F2 9 Tf 50 575 Td (Denies fever, visual aura, motor weakness, or recent head trauma.) Tj ET
+BT /F2 9 Tf 50 553 Td (Physical & Neurological Examination:) Tj ET
+BT /F2 9 Tf 50 539 Td (Alert and oriented x 3. Cranial nerves II-XII intact. Sensation intact bilaterally.) Tj ET
+BT /F2 9 Tf 50 525 Td (Motor strength 5/5 in all extremities. No pronator drift. Reflexes 2+ symmetric.) Tj ET
+BT /F2 9 Tf 50 511 Td (Funduscopic exam: Sharp disc margins bilaterally, no papilledema noted.) Tj ET
+BT /F2 9 Tf 50 489 Td (Assessment & Plan:) Tj ET
+BT /F2 9 Tf 50 475 Td (1. Chronic refractory headache syndrome -- rule out intracranial mass or vascular lesion.) Tj ET
+BT /F2 9 Tf 50 461 Td (2. Ordering non-contrast Brain MRI \(CPT 70551\).) Tj ET
+BT /F2 9 Tf 50 447 Td (3. Initiating physical therapy referral and lifestyle modifications.) Tj ET
+BT /F2 8 Tf 50 50 Td (DOCUMENT GENERATED FROM EPIC EHR -- ENCOUNTER ID: ENC-2026-88192) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000255 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+500
+%%EOF

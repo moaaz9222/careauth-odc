@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1778 >>
+stream
+BT /F1 16 Tf 50 750 Td (METROPOLITAN NEUROLOGY CLINIC -- PHYSICIAN ORDER) Tj ET
+BT /F2 10 Tf 50 732 Td (Clinical Requisition for Outpatient Diagnostic Neuroimaging) Tj ET
+BT /F1 9 Tf 50 705 Td (Patient Name:) Tj ET
+BT /F2 9 Tf 180 705 Td (Ahmed Ali \(Age 45, Gender: Male\)) Tj ET
+BT /F1 9 Tf 50 689 Td (Date of Birth:) Tj ET
+BT /F2 9 Tf 180 689 Td (1981-03-14) Tj ET
+BT /F1 9 Tf 50 673 Td (Ordering Physician:) Tj ET
+BT /F2 9 Tf 180 673 Td (Dr. Hala Mansour, MD -- Board Certified Neurologist) Tj ET
+BT /F1 9 Tf 50 657 Td (Physician NPI:) Tj ET
+BT /F2 9 Tf 180 657 Td (NPI-1982736451 | State License: ME-88319) Tj ET
+BT /F1 9 Tf 50 641 Td (Requested Service:) Tj ET
+BT /F2 9 Tf 180 641 Td (MRI Brain Without Contrast) Tj ET
+BT /F1 9 Tf 50 625 Td (CPT Procedure Code:) Tj ET
+BT /F2 9 Tf 180 625 Td (70551 \(Magnetic Resonance Imaging Brain\)) Tj ET
+BT /F1 9 Tf 50 609 Td (Primary ICD-10 Diagnosis:) Tj ET
+BT /F2 9 Tf 180 609 Td (G44.209 \(Tension-type headache, unspecified, intractable\)) Tj ET
+BT /F1 9 Tf 50 593 Td (Secondary ICD-10 Diagnosis:) Tj ET
+BT /F2 9 Tf 180 593 Td (R51.9 \(Headache, unspecified, chronic daily\)) Tj ET
+BT /F2 9 Tf 50 567 Td (Clinical Order Rationale:) Tj ET
+BT /F2 9 Tf 50 553 Td (Patient presents with progressive daily frontal-occipital headaches lasting greater than 6 weeks.) Tj ET
+BT /F2 9 Tf 50 539 Td (Pain intensity is worsening \(rated 6-7/10\). Failed outpatient conservative oral NSAID regimen.) Tj ET
+BT /F2 9 Tf 50 525 Td (Requesting non-contrast brain MRI to rule out intracranial mass lesion or structural etiology.) Tj ET
+BT /F2 9 Tf 50 503 Td (Physician Electronic Signature: Dr. Hala Mansour, MD \(Signed 2026-08-20 09:45 AM EST\)) Tj ET
+BT /F2 8 Tf 50 50 Td (METROPOLITAN NEUROLOGY CLINIC -- 100 HEALTH PARKWAY, SUITE 400) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000255 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+500
+%%EOF

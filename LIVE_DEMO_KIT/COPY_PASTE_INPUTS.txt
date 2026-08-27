@@ -1,0 +1,41 @@
+================================================================================
+CAREAUTH AI — LIVE DEMO COPY-PASTE CHEAT SHEET
+(بيانات النسخ واللصق السريع أثناء العرض المباشر)
+================================================================================
+
+1. PATIENT (المريض):
+   Select from dropdown: Ahmed Ali (DOB: 1981-03-14)
+
+2. INSURANCE PLAN (خطة التأمين):
+   Select from dropdown: ABC Gold PPO (Payer: ABC Insurance)
+
+3. REQUESTED SERVICE (الخدمة المطلوبة):
+   Select from dropdown: MRI Brain without contrast (CPT: 70551)
+
+4. MEMBER NUMBER (رقم العضوية):
+ABC-4471-9920
+
+5. ORDERING PHYSICIAN (اسم الطبيب المعالج):
+Dr. Hala Mansour
+
+6. CLINICAL CONTEXT / REASON FOR REQUEST (السياق والتشخيص السريري):
+45yo male with persistent daily headaches for 6 weeks, failed conservative management with oral NSAIDs (Ibuprofen 600mg TID) and 6 weeks of physical therapy. Referral from Dr. Hala Mansour for diagnostic non-contrast MRI Brain to evaluate structural etiology.
+
+7. URGENCY (درجة الأهمية):
+   Select: Routine
+
+================================================================================
+FILES TO DRAG & DROP AT EACH STEP (الملفات المستخدمة في كل مرحلة):
+================================================================================
+
+STEP 1 (إنشاء الطلب المبدئي):
+- 01_Insurance_Card_Ahmed_Ali.pdf  -> Type: Insurance Card
+- 02_Physician_Order_Brain_MRI.pdf -> Type: Physician Order
+- 03_Clinical_Progress_Notes.pdf   -> Type: Clinical Progress Notes
+
+STEP 2 (عند اكتشاف النقص وحظر الإرسال):
+- 04_PREVIOUS_IMAGING_REPORT_MISSING_DOC.pdf -> Type: Previous Imaging Report
+
+STEP 3 (عند رفض شركة التأمين في المحاولة الأولى):
+- 05_DETAILED_PHYSICIAN_NOTES_ADDENDUM.pdf -> Type: Detailed Physician Notes
+================================================================================

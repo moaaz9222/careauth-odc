@@ -1,0 +1,38 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 650 >>
+stream
+BT /F1 16 Tf 50 750 Td (Radiology Report -- Head CT Without Contrast (Historical)) Tj ET
+BT /F1 10 Tf 50 710 Td (Patient: Ahmed Ali | Exam Date: 2024-03-10 | Facility: City Imaging Center) Tj ET
+BT /F1 10 Tf 50 692 Td (Accession #: RAD-2024-8819 | Modality: Computed Tomography Head) Tj ET
+BT /F1 10 Tf 50 674 Td (Clinical Indication: Mild concussion following minor fall.) Tj ET
+BT /F1 10 Tf 50 656 Td (Findings: No acute intracranial hemorrhage or territorial infarction.) Tj ET
+BT /F1 10 Tf 50 638 Td (Ventricles and sulci are within normal limits for age.) Tj ET
+BT /F1 10 Tf 50 620 Td (Impression: Unremarkable non-contrast head CT scan.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000240 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+500
+%%EOF

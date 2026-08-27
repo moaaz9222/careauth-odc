@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1307 >>
+stream
+BT /F1 16 Tf 50 750 Td (ABC HEALTHCARE NETWORK -- MEMBER IDENTIFICATION) Tj ET
+BT /F2 10 Tf 50 732 Td (Official Proof of Active Insurance Coverage & Benefit Tier) Tj ET
+BT /F1 9 Tf 50 705 Td (Patient Full Name:) Tj ET
+BT /F2 9 Tf 180 705 Td (Ahmed Ali) Tj ET
+BT /F1 9 Tf 50 689 Td (Member / Subscriber ID:) Tj ET
+BT /F2 9 Tf 180 689 Td (ABC-4471-9920) Tj ET
+BT /F1 9 Tf 50 673 Td (Plan Name:) Tj ET
+BT /F2 9 Tf 180 673 Td (ABC Gold PPO Network) Tj ET
+BT /F1 9 Tf 50 657 Td (Group Policy Number:) Tj ET
+BT /F2 9 Tf 180 657 Td (GRP-99482-GOLD) Tj ET
+BT /F1 9 Tf 50 641 Td (Effective Date:) Tj ET
+BT /F2 9 Tf 180 641 Td (January 01, 2024 -- Active) Tj ET
+BT /F1 9 Tf 50 625 Td (Copay Tier:) Tj ET
+BT /F2 9 Tf 180 625 Td (Specialist: $30 | Advanced Imaging: 10% Coinsurance) Tj ET
+BT /F1 9 Tf 50 609 Td (Prior Auth Required:) Tj ET
+BT /F2 9 Tf 180 609 Td (Yes -- For All Advanced Outpatient Imaging) Tj ET
+BT /F2 9 Tf 50 583 Td (Payer Contact for Authorizations: ABC Insurance Prior Authorization Unit) Tj ET
+BT /F2 9 Tf 50 561 Td (Electronic Submission Portal: CareAuth Electronic Interchange Gateway) Tj ET
+BT /F2 9 Tf 50 539 Td (Customer Service: 1-800-555-0199 | Provider Pre-Auth Line: 1-800-555-0122) Tj ET
+BT /F2 8 Tf 50 50 Td (CONFIDENTIAL HEALTHCARE DOCUMENT -- FOR PRIOR AUTHORIZATION USE ONLY) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000255 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+500
+%%EOF

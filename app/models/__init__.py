@@ -1,0 +1,31 @@
+from app.models.tables import (
+    AiAnalysis,
+    AuthorizationRequest,
+    CoverageRule,
+    Document,
+    InsurancePlan,
+    InsuranceResponse,
+    InsuranceSubmission,
+    MockPayerScript,
+    Patient,
+    PolicyChunk,
+    PolicyDocument,
+    RequestEvent,
+    Service,
+)
+
+__all__ = [
+    "AiAnalysis",
+    "AuthorizationRequest",
+    "CoverageRule",
+    "Document",
+    "InsurancePlan",
+    "InsuranceResponse",
+    "InsuranceSubmission",
+    "MockPayerScript",
+    "Patient",
+    "PolicyChunk",
+    "PolicyDocument",
+    "RequestEvent",
+    "Service",
+]
